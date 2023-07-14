@@ -1,7 +1,4 @@
 # Python Projects
-
-This repository contains a collection of Python utility scripts for various purposes. Each script serves a specific function and can be used independently.
-
 ## Table of Contents
 
 1. [Espeak](#espeak)
